@@ -1,0 +1,33 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Building fullstack project by using fullstack technologies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fozilsadullaev/natours-project.git"
+  },
+  "keywords": [
+    "\"travel\"",
+    "\"tourism\"",
+    "\"nodejs\"",
+    "\"express\"",
+    "\"api\"",
+    "\"mongodb\"",
+    "\"web",
+    "app\"",
+    "\"natours\""
+  ],
+  "author": "Fozil Sadullaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fozilsadullaev/natours-project/issues"
+  },
+  "homepage": "https://github.com/fozilsadullaev/natours-project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
