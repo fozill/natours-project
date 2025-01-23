@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/fozilsadullaev/natours-project#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
