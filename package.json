@@ -4,7 +4,7 @@
   "description": "Building fullstack project by using fullstack technologies",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
